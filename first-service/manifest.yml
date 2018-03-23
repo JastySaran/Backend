@@ -1,0 +1,7 @@
+applications:
+-  name: Movies4U
+   random-route: true
+   memory: 256M
+   command: Movies4U
+   buildpack: swift_buildpack
+   health-check-type: process

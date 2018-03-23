@@ -1,0 +1,196 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "C7",
+        "repositoryURL": "https://github.com/open-swift/C7.git",
+        "state": {
+          "branch": null,
+          "revision": "6660400e580b6cda8c2e78dc2798bedb6f264586",
+          "version": "0.9.1"
+        }
+      },
+      {
+        "package": "CCurl",
+        "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
+        "state": {
+          "branch": null,
+          "revision": "e588790283ba75fa7755557f40214f39bb77a8a7",
+          "version": "0.2.6"
+        }
+      },
+      {
+        "package": "CHTTPParser",
+        "repositoryURL": "https://github.com/IBM-Swift/CHTTPParser.git",
+        "state": {
+          "branch": null,
+          "revision": "429eff6a971f06b8f2f64f385df2d36ba761ccf4",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "CSQLite",
+        "repositoryURL": "https://github.com/qutheory/csqlite.git",
+        "state": {
+          "branch": null,
+          "revision": "48b0dc02b361d5906cdfa805ddcf8dc66eabdfad",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/vapor/core.git",
+        "state": {
+          "branch": null,
+          "revision": "661a105e25a8d84cb61f268c0b6ed85834493761",
+          "version": "1.1.2"
+        }
+      },
+      {
+        "package": "Fluent",
+        "repositoryURL": "https://github.com/qutheory/fluent.git",
+        "state": {
+          "branch": null,
+          "revision": "4a7a95fe4cf15988d04f79d13ec395ea100971ed",
+          "version": "0.7.2"
+        }
+      },
+      {
+        "package": "FluentSQLite",
+        "repositoryURL": "https://github.com/vapor/sqlite-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "d897d2c7668518250d9c259c26f2e2ac9a432e2b",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "HeliumLogger",
+        "repositoryURL": "https://github.com/IBM-Swift/HeliumLogger.git",
+        "state": {
+          "branch": null,
+          "revision": "7e9b5eb6f79540d790ee4ace693cc13be581b3db",
+          "version": "0.17.0"
+        }
+      },
+      {
+        "package": "Kitura",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura.git",
+        "state": {
+          "branch": null,
+          "revision": "fe2b23be265e9c7b240693caa3bafe14c29e860c",
+          "version": "0.33.2"
+        }
+      },
+      {
+        "package": "Kitura-CouchDB",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-CouchDB.git",
+        "state": {
+          "branch": null,
+          "revision": "64199db79787af186525fa67a7db01c0214ad21a",
+          "version": "0.33.0"
+        }
+      },
+      {
+        "package": "Kitura-TemplateEngine",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "49796c6d09455da1136f01cdf988a1199d8e8119",
+          "version": "0.32.0"
+        }
+      },
+      {
+        "package": "Kitura-net",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
+        "state": {
+          "branch": null,
+          "revision": "626f39fb79ea131d78aca055d3716ec8fdade006",
+          "version": "0.33.3"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "3454b0df248433f47b25cdc430f7a9c5e200ba71",
+          "version": "0.12.0"
+        }
+      },
+      {
+        "package": "Node",
+        "repositoryURL": "https://github.com/vapor/node.git",
+        "state": {
+          "branch": null,
+          "revision": "4cf8c76c1195b29e36c7d37ca056d8fa5433e957",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "PathIndexable",
+        "repositoryURL": "https://github.com/qutheory/path-indexable.git",
+        "state": {
+          "branch": null,
+          "revision": "a58a7853fcfdbee6851d8323c8bbd66a23133fc1",
+          "version": "0.2.0"
+        }
+      },
+      {
+        "package": "Polymorphic",
+        "repositoryURL": "https://github.com/qutheory/polymorphic.git",
+        "state": {
+          "branch": null,
+          "revision": "2c48b254c38907f2be6c732cfbc0d22cc0863095",
+          "version": "0.2.1"
+        }
+      },
+      {
+        "package": "SQLite",
+        "repositoryURL": "https://github.com/vapor/sqlite.git",
+        "state": {
+          "branch": null,
+          "revision": "45ca240a66739e44e4a730d7467a068b1623a5be",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "68bdc2dbe46e6ca97320900d740103aef094b9bd",
+          "version": "0.11.56"
+        }
+      },
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "b7a0807ce85c5e6fa11ed9c6e4bfd41f418ac3a0",
+          "version": "0.11.40"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/IBM-Swift/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "d8de7c8f71df7c939f3d47e7d1fb53f344b471fa",
+          "version": "14.2.1"
+        }
+      },
+      {
+        "package": "libc",
+        "repositoryURL": "https://github.com/qutheory/libc.git",
+        "state": {
+          "branch": null,
+          "revision": "ffd692c0bebce649b1fc9b7e38da6366e44c33fa",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
